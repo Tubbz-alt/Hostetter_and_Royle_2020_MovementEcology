@@ -2,7 +2,7 @@
 
 ### Hostetter, N. J., and J. A. Royle
 
-### Movement Ecology 
+### Movement Ecology
 
 ### Code/Data DOI: [doi.org/10.1186/s40462-020-00199-6](https://doi.org/10.1186/s40462-020-00199-6)
 
